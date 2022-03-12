@@ -59,155 +59,151 @@
             "precio": "COP 97,562.96",
             "tallas": ["XL", "L", "M", "S"],
             "id": 7
-        }, {
-            "users": [{
-                    "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622239/iconos/4_mjaxmb.png",
-                    "name": "Isabella",
-                    "email": "isa@gmail.com",
-                    "contraseña": "xxxxxxxx",
-                    "id": 1
-                },
-                {
-                    "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
-                    "name": "Carlos",
-                    "email": "carlos@gmail.com",
-                    "contraseña": "xxxxxxxxxxxxxxx",
-                    "id": 2
-                }
-            ]
-        }, {
-            "carrito-compra": [{
-                    "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
-                    "name-product": " Sudadera Hombre",
-                    "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647044757/producst-sport/productos/pequeno-hombre-01_whvegr.png",
-                    "precio-product": "COP 97,562.96 - 156,100.74",
-                    "cantidad": "2",
-                    "id": 1
-                },
-                {
-                    "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
-                    "name-product": "sudadera Mujer",
-                    "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647046135/producst-sport/productos/Frame_22_mkgc9y.png",
-                    "precio-producto": "COP 97,562.96 - 156,100.74",
-                    "cantidad": "5",
-                    "id": 2
-                }, {
-                    "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
-                    "name-product": "sudadera Niño",
-                    "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032448/producst-sport/Rectangle_4_h6vpzk.png",
-                    "precio-producto": "COP 97,562.96 - 156,100.74",
-                    "cantidad": "5",
-                    "id": 3
-                }
-            ]
+        }
+    ],
+    "users": [{
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622239/iconos/4_mjaxmb.png",
+            "name": "Isabella",
+            "email": "isa@gmail.com",
+            "contraseña": "xxxxxxxx",
+            "id": 1
         },
         {
-            "imagenes": [{
-                "name": "Imagen-principal01",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043407/producst-sport/imagenes/imagen-principal-01_rsuvyt.png",
-                "id": 1
-            }, {
-                "name": "Imagen-principal02",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043403/producst-sport/imagenes/imagen-principal-02_fakaom.png",
-                "id": 2
-            }, {
-                "name": "Imagen-principal03",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043396/producst-sport/imagenes/imagen-principal-03_jfloxy.png",
-                "id": 3
-            }, {
-                "name": "imagen-principal04",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043396/producst-sport/imagenes/imagen-principal-04_jfloxy.png",
-                "id": 4
-            }, {
-                "name": "Cover",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032608/producst-sport/imagenes/cover_1_zz9ou2.png",
-                "id": 5
-            }, {
-                "name": "footer",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032517/producst-sport/imagenes/footer_cdwjec.png",
-                "id": 6
-            }, {
-                "name": "footer",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043413/producst-sport/imagenes/footer_pkvi2z.jpg",
-                "id": 7
-            }, {
-                "name": "Imagen-portada",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043385/producst-sport/imagenes/logo-principe-fresco_tbt4hd.png",
-                "id": 8
-            }, {
-                "name": "set-hombre-01_z0apzs",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043441/producst-sport/imagenes/set-hombre-01_z0apzs.png",
-                "id": 9
-            }, {
-                "name": "mujer-capucha",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043456/producst-sport/imagenes/set-mujer-capucha-01_isg1et.png",
-                "id": 10
-            }, {
-                "name": "card_4_sudadera-juv",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647034366/producst-sport/imagenes/card_4_sudadera-juv.png",
-                "id": 11
-            }, {
-                "name": "frame 14",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/imagenes/frame14.png",
-                "id": 12
-            }, {
-                "name": "frame15",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032513/producst-sport/imagenes/Frame_15_xrmrg1.png",
-                "id": 13
-            }, {
-                "name": "frame16",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032438/producst-sport/imagenes/Rectangle_6_djfjya.png",
-                "id": 14
-            }, {
-                "name": "frame17",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032404/producst-sport/imagenes/card_1_frame17.png",
-                "id": 15
-            }, {
-                "name": "frame18",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043462/producst-sport/imagenes/set-mujer-capucha-02_icxddz.png",
-                "id": 17
-            }, {
-                "name": "frame19",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032509/producst-sport/imagenes/Frame_19_kbb9td.png",
-                "id": 18
-            }, {
-                "name": "frame20",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032498/producst-sport/imagenes/Frame_20_epxwoo.png",
-                "id": 19
-            }, {
-                "name": "frame21",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043452/producst-sport/imagenes/set-mujer-blanco-02_yypp2b.png",
-                "id": 20
-            }, {
-                "name": "frame22",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032492/producst-sport/imagenes/Frame_22_httmlw.png",
-                "id": 21
-            }, {
-                "name": "icono-Youtube",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043566/producst-sport/iconos/icon-youtube_ikfjyz.svg",
-                "id": 22
-            }, {
-                "name": "icono-Cerrar",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043569/producst-sport/iconos/icon-cerrar_xoiszf.svg",
-                "id": 23
-            }, {
-                "name": "icono-Usuario",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043546/producst-sport/iconos/icon-usuario_zxpwwk.svg",
-                "id": 24
-            }, {
-                "name": "Menu-icono",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043500/producst-sport/iconos/menu-icon_q5axzv.svg",
-                "id": 25
-            }, {
-                "name": "icono-Vector",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043473/producst-sport/iconos/Vector_djbhjk.svg",
-                "id": 26
-            }, {
-                "name": "icono-Hans",
-                "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039433/producst-sport/iconos/hands_jqgpyp.svg",
-                "id": 27
-            }]
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
+            "name": "Carlos",
+            "email": "carlos@gmail.com",
+            "contraseña": "xxxxxxxxxxxxxxx",
+            "id": 2
         }
+    ],
+    "carrito-compra": [{
+            "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+            "name-product": " Sudadera Hombre",
+            "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647044757/producst-sport/productos/pequeno-hombre-01_whvegr.png",
+            "precio-product": "COP 97,562.96 - 156,100.74",
+            "cantidad": "2",
+            "id": 1
+        },
+        {
+            "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+            "name-product": "sudadera Mujer",
+            "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647046135/producst-sport/productos/Frame_22_mkgc9y.png",
+            "precio-producto": "COP 97,562.96 - 156,100.74",
+            "cantidad": "5",
+            "id": 2
+        }, {
+            "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+            "name-product": "sudadera Niño",
+            "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032448/producst-sport/Rectangle_4_h6vpzk.png",
+            "precio-producto": "COP 97,562.96 - 156,100.74",
+            "cantidad": "5",
+            "id": 3
+        }
+    ],
 
-    ]
+    "imagenes": [{
+        "name": "Imagen-principal01",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043407/producst-sport/imagenes/imagen-principal-01_rsuvyt.png",
+        "id": 1
+    }, {
+        "name": "Imagen-principal02",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043403/producst-sport/imagenes/imagen-principal-02_fakaom.png",
+        "id": 2
+    }, {
+        "name": "Imagen-principal03",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043396/producst-sport/imagenes/imagen-principal-03_jfloxy.png",
+        "id": 3
+    }, {
+        "name": "imagen-principal04",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043396/producst-sport/imagenes/imagen-principal-04_jfloxy.png",
+        "id": 4
+    }, {
+        "name": "Cover",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032608/producst-sport/imagenes/cover_1_zz9ou2.png",
+        "id": 5
+    }, {
+        "name": "footer",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032517/producst-sport/imagenes/footer_cdwjec.png",
+        "id": 6
+    }, {
+        "name": "footer",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043413/producst-sport/imagenes/footer_pkvi2z.jpg",
+        "id": 7
+    }, {
+        "name": "Imagen-portada",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043385/producst-sport/imagenes/logo-principe-fresco_tbt4hd.png",
+        "id": 8
+    }, {
+        "name": "set-hombre-01_z0apzs",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043441/producst-sport/imagenes/set-hombre-01_z0apzs.png",
+        "id": 9
+    }, {
+        "name": "mujer-capucha",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043456/producst-sport/imagenes/set-mujer-capucha-01_isg1et.png",
+        "id": 10
+    }, {
+        "name": "card_4_sudadera-juv",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647034366/producst-sport/imagenes/card_4_sudadera-juv.png",
+        "id": 11
+    }, {
+        "name": "frame 14",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/imagenes/frame14.png",
+        "id": 12
+    }, {
+        "name": "frame15",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032513/producst-sport/imagenes/Frame_15_xrmrg1.png",
+        "id": 13
+    }, {
+        "name": "frame16",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032438/producst-sport/imagenes/Rectangle_6_djfjya.png",
+        "id": 14
+    }, {
+        "name": "frame17",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032404/producst-sport/imagenes/card_1_frame17.png",
+        "id": 15
+    }, {
+        "name": "frame18",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043462/producst-sport/imagenes/set-mujer-capucha-02_icxddz.png",
+        "id": 17
+    }, {
+        "name": "frame19",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032509/producst-sport/imagenes/Frame_19_kbb9td.png",
+        "id": 18
+    }, {
+        "name": "frame20",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032498/producst-sport/imagenes/Frame_20_epxwoo.png",
+        "id": 19
+    }, {
+        "name": "frame21",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043452/producst-sport/imagenes/set-mujer-blanco-02_yypp2b.png",
+        "id": 20
+    }, {
+        "name": "frame22",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032492/producst-sport/imagenes/Frame_22_httmlw.png",
+        "id": 21
+    }, {
+        "name": "icono-Youtube",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043566/producst-sport/iconos/icon-youtube_ikfjyz.svg",
+        "id": 22
+    }, {
+        "name": "icono-Cerrar",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043569/producst-sport/iconos/icon-cerrar_xoiszf.svg",
+        "id": 23
+    }, {
+        "name": "icono-Usuario",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043546/producst-sport/iconos/icon-usuario_zxpwwk.svg",
+        "id": 24
+    }, {
+        "name": "Menu-icono",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043500/producst-sport/iconos/menu-icon_q5axzv.svg",
+        "id": 25
+    }, {
+        "name": "icono-Vector",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043473/producst-sport/iconos/Vector_djbhjk.svg",
+        "id": 26
+    }, {
+        "name": "icono-Hans",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039433/producst-sport/iconos/hands_jqgpyp.svg",
+        "id": 27
+    }]
 }
